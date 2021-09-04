@@ -1,0 +1,10 @@
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\bin\Debug\Rename_Files.exe.config
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\bin\Debug\Rename_Files.exe
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\bin\Debug\Rename_Files.pdb
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.csprojAssemblyReference.cache
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.frmRenameFiles.resources
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.Properties.Resources.resources
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.csproj.GenerateResource.cache
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.csproj.CoreCompileInputs.cache
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.exe
+C:\Users\saaga\Documents\Work\Development\C#\Rename_Files\Rename_Files\obj\Debug\Rename_Files.pdb
